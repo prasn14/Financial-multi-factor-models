@@ -1,0 +1,1 @@
+The project contains exploratory work on constructing Neural nets and solve the multi factor model in quant finance using the approach of PINNs and exploiting the Automatic differentiation approach of Pytorch
